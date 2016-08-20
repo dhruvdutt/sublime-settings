@@ -1,0 +1,27 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"GitGutter",
+		"Monokai - Spacegray",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": false,
+	"predawn_sidebar_medium": true,
+	"predawn_tabs_active_underline": false,
+	"predawn_tabs_medium": true,
+	"theme": "predawn-DEV.sublime-theme"
+}
